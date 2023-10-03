@@ -1,6 +1,6 @@
 @font-face {
     font-family: gilroy;
-    src: url("../assets/Gilroy-FREE/Gilroy-FREE/Gilroy-ExtraBold.otf");
+    src: url("../assets/Gilroy-FREE/Gilroy-FREE/Gilroy-ExtraBold.otf/");
 }
 
 
@@ -277,15 +277,15 @@ video {
 }
 
 #card1 {
-    background-image: url(../assets/img/card1.avif);
+    background-image: url(../assets/img/card1.avif/);
 }
 
 #card2 {
-    background-image: url(../assets/img/card2.webp);
+    background-image: url(../assets/img/card2.webp/);
 }
 
 #card3 {
-    background-image: url(../assets/img/card3.avif);
+    background-image: url(../assets/img/card3.avif/);
 }
 
 .overlay {
